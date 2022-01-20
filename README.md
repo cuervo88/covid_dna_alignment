@@ -14,3 +14,4 @@ Main commands:
 ```view_alignment(gene)``` Makes a plot of the aligned sequences to see how the alignment looks like.
 
 For adding future variants it can be done just by modifying the file ```SARS_variant_examples.csv``` by adding the line of the new variant, and add the variant name and Pango Lineage name to the list inside ```covid_dna_alignment.ipynb``` (list_variants and list_lineage). Then, just run the command ```generate_gb_files()```
+
